@@ -14,3 +14,5 @@ The full tutorial for this project is published on [FreeCodeCamp.](https://www.f
 ![Skilllz Image One](./images/cover-1.png)
 ***
 ![Skilllz Image Two](./images/cover-2.png)
+***
+![Skilllz Footer](./images/footer.png)
