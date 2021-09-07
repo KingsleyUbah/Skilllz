@@ -16,3 +16,12 @@ The full tutorial for this project is published on [FreeCodeCamp.](https://www.f
 ![Skilllz Image Two](./images/cover-2.png)
 ***
 ![Skilllz Footer](./images/footer.png)
+
+### RESPONSIVE (TABLETS)
+
+![Tablets version](./images/tablet.png)
+
+
+### RESPONSIVE (MOBILE SCREENS)
+
+![Tablets version](./images/mobile.png)
