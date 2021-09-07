@@ -18,10 +18,22 @@ The full tutorial for this project is published on [FreeCodeCamp.](https://www.f
 ![Skilllz Footer](./images/footer.png)
 
 ### RESPONSIVE (TABLETS)
-
+On tablets, this is how our landing page will look like.
 ![Tablets version](./images/tablet.png)
+***
+
+![Tablets version](./images/tablet-2.png)
+***
+
+![Tablets version](./images/table-3.png)
 
 
 ### RESPONSIVE (MOBILE SCREENS)
-
+On mobile devices with smaller screens.
 ![Tablets version](./images/mobile.png)
+***
+
+![Tablets version](./images/mobile-2.png)
+***
+
+![Tablets version](./images/mobile-3.png)
